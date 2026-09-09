@@ -5,4 +5,4 @@
 
 La máquina virtual fue configurada en modo NAT.
 
-![Configuración de red](captura-Red.png)
+![Configuración de red](Red.png)
