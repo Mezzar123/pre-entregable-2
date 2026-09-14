@@ -14,7 +14,7 @@ Antes de iniciar la máquina virtual, se ingresó a Configuración → Red de Vi
 
 ### Captura
 
-![Configuración de red](Red.png)
+![Configuración de red]Pre%20entregable%202/Red.png
 
 ### Importancia para la seguridad
 
